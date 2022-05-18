@@ -1,7 +1,6 @@
 # VO - RPE (Registre de Parelles Estables)
 
-
-Històric de revisions
+ESBORRANY
 
 Versió	Data	Autor	Comentaris
 V1.0	01/03/2022	Roger Noguera i Arnau	Creació del document
