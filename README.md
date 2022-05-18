@@ -1,1 +1,1 @@
-# VO - Registre-de-Parelles-Estables
+# VO - RPE (Registre de Parelles Estables)
