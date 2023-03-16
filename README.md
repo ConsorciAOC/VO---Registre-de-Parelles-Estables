@@ -13,7 +13,7 @@
         * [3.1.1 Petició – dades genèriques](#3.1.1)
         * [3.1.2 Petició – dades específiques](#3.1.2)
 		* [3.1.3 Resposta – dades específiques](#3.1.3)
-   * [3.2. Verificació d'un titular al Registre de Parelles Estables (RPE_CONSULTA)](#3.2)
+   * [3.2. Verificació d'un titular al Registre de Parelles Estables (RPE_VERIFICACIO)](#3.2)
         * [3.2.1 Petició – dades específiques](#3.2.1)
         * [3.2.2 Resposta – dades específiques](#3.2.2)
 - [4. Joc de proves](#4)
